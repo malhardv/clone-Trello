@@ -21,6 +21,7 @@ A full-stack Kanban-style task management app inspired by Trello. Built with **N
 git clone https://github.com/malhardv/clone-Trello
 cd clone-Trello
 npm run dev
+```
 
 
 ## 📸 Screenshots
