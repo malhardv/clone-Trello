@@ -29,6 +29,6 @@ npm run dev
 ### Home Page
 ![Landing](./screenshots/ss1.png)
 
-### Features
-![Search-Feature](./screenshots/ss2.png)
+### Search Feature
+![Searc-Feature](./screenshots/ss2.png)
 
